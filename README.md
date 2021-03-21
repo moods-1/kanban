@@ -4,7 +4,7 @@ This was a team project that was inspired by Trello.com. This application helps 
 
 - Login, signup, and authentication
 - Draggable and dropable components
-- Create, modify, and delete dashboard in real-time
+- Create, modify, and delete dashboard items in real-time
 - Changeable profile pictures
 - Account upgrades
 
